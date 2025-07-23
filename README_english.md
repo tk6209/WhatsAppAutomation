@@ -73,7 +73,8 @@ python run_legacy.py WhatsApp3.py
 🔒 Disclaimer
 This project is for educational purposes only. Mass automation may violate WhatsApp's Terms of Use.
 
+---
+
 📚 Credits
 Developed by Vinicius Teixeira
 
-📄 Also read: README in Portuguese 🇧🇷
