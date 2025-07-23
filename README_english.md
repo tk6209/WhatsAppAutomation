@@ -70,11 +70,16 @@ Run legacy scripts with run_legacy.py
 To run older scripts:
 
 python run_legacy.py WhatsApp3.py
-🔒 Disclaimer
-This project is for educational purposes only. Mass automation may violate WhatsApp's Terms of Use.
 
 ---
 
-📚 Credits
-Developed by Vinicius Teixeira
+### 🔒 Disclaimer
 
+This project is for educational purposes only.
+Mass automation may violate WhatsApp's [Terms of Use](https://www.whatsapp.com/legal/terms-of-service).
+
+---
+
+### 📚 Credits
+
+Developed by **Vinicius Teixeira**
