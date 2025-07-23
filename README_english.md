@@ -9,6 +9,7 @@ This project automates message sending via **WhatsApp Web**, using **Python**, *
 ## 📁 Project Structure
 
 WhatsAppAutomation/
+
 │
 
 ├── data/ # 📥 Input files (e.g., contatos.xlsx)
@@ -20,15 +21,25 @@ WhatsAppAutomation/
 │ ├── whatsapp_sender.py
 
 │ ├── whatsapp_senderv1.py
+
 │ ├── whatsapp_senderv2.py
+
 │ └── ...
+
 │
+
 ├── run_legacy.py # 🕹️ Run old scripts by name
+
 ├── requirements.txt # 📦 Project dependencies
+
 ├── setup.ps1 / .bat # ⚙️ Setup/Environment scripts
+
 ├── README.PO.md # 📘 Portuguese version
+
 ├── README.EN.md # 📗 This file (English)
+
 └── README.md # 🌐 Main index with links
+
 
 ---
 
