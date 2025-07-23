@@ -39,9 +39,6 @@ pip install -r requirements.txt
 ▶️ Como Executar
 Abra o terminal e execute:
 
-bash
-Copiar
-Editar
 python src/whatsapp_senderv2.py
 📝 Funcionalidades
 Leitura de contatos via .xlsx
@@ -57,9 +54,6 @@ Execução de versões antigas com run_legacy.py
 🧪 Testes e versões anteriores
 Você pode rodar scripts antigos com:
 
-bash
-Copiar
-Editar
 python run_legacy.py WhatsApp3.py
 🔒 Aviso
 Este projeto é para fins educacionais. O uso em massa de automações pode violar os termos de uso do WhatsApp.
