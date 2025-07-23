@@ -10,10 +10,15 @@ This project automates message sending via **WhatsApp Web**, using **Python**, *
 
 WhatsAppAutomation/
 │
+
 ├── data/ # 📥 Input files (e.g., contatos.xlsx)
+
 ├── logs/ # 🧾 Execution logs and export files
+
 ├── src/ # ⚙️ Main scripts
+
 │ ├── whatsapp_sender.py
+
 │ ├── whatsapp_senderv1.py
 │ ├── whatsapp_senderv2.py
 │ └── ...
